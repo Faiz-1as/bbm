@@ -1,0 +1,5 @@
+# 地图3: 沙漠遗迹
+# THEME=tileImgIdx,wallImgIdx,brickImgIdx,brickDensity
+THEME=5,2,20,0.7
+# 菱形散布柱子；坐标为格子坐标
+WALL=3,3;11,3;7,6;3,9;11,9

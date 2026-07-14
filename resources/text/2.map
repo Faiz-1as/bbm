@@ -1,0 +1,5 @@
+# 地图2: 石砖地牢
+# THEME=tileImgIdx,wallImgIdx,brickImgIdx,brickDensity
+THEME=2,1,10,0.5
+# 十字形内部墙壁(中心开口已扣除)；坐标为格子坐标
+WALL=2,6;3,6;4,6;5,6;9,6;10,6;11,6;12,6;7,2;7,3;7,4;7,8;7,9;7,10
